@@ -3,7 +3,7 @@ Data and STATA code for thesis replication
 
 **Thesis, "From Grey to Green Filtration: Rethinking Urban-Rural divide in the Empire City Watershed"**  
 
-Contains-
+### Contains-
 1) Land-use change (1974-2012) 8-HUC watershed that includes NYC watershed
 
 2) CWA capital investments data tagged to WWTPs (1962- 1998)
