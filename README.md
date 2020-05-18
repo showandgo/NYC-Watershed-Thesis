@@ -1,9 +1,9 @@
 # NYC-Watershed-Thesis Replication
 Data and STATA code for thesis replication
 
+Thesis, "From Grey to Green Filtration: Rethinking Urban-Rural divide in the Empire City Watershed" 
 
-
-``` Thesis, "From Grey to Green Filtration: Rethinking Urban-Rural divide in the Empire City Watershed" 
+``` 
 
 Contains-
 1) Land-use change (1974-2012) 8-HUC watershed that includes NYC watershed
